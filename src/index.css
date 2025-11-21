@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Hide scrollbar for modal */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
