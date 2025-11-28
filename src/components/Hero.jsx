@@ -63,7 +63,7 @@ export const Hero = () => {
               <Github className="w-7 h-7" />
             </a>
             <a
-              href="https://www.linkedin.com/in/md-zakaria-hossen-emon-182ab2254/"
+              href="https://www.linkedin.com/in/zakariaemon/"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-ghost btn-circle hover:scale-110 transition-transform"

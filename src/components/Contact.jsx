@@ -97,7 +97,7 @@ const Contact = () => {
                     <Github className="w-5 h-5" />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/md-zakaria-hossen-emon-182ab2254/"
+                    href="https://www.linkedin.com/in/zakariaemon/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-circle bg-gradient-to-br from-primary/10 to-secondary/10 border-primary/20 hover:from-primary hover:to-secondary hover:text-white hover:border-transparent transition-all duration-300"
